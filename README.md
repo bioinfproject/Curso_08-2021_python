@@ -15,13 +15,14 @@
 
 #### Descargar los siguientes documentos ejecutables:  
 
-!!! Para descargarlos apropieadmente:  
-i) clic derecho  
-ii) `Save Page As...`  
-iii) Buscar el folder `jupyter` que está en `curso_bio_uam`  
-iv) en `Save as type:` seleccionar `All Files`  
-v) agregar la extención `.ipynb` al nombre del archivo  
-vi) finalmente `Save`  
+!!! Para descargarlos apropieadmente (de forma manual):  
+
+1) clic derecho  
+2) `Save Page As...`  
+3) Buscar el folder `jupyter` que está en `curso_bio_uam`  
+4) en `Save as type:` seleccionar `All Files`  
+5) agregar la extención `.ipynb` al nombre del archivo  
+6) finalmente `Save`  
 
 [bit_markdown_s2](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_markdown_s2.ipynb)
 
@@ -29,7 +30,9 @@ vi) finalmente `Save`
 
 [bit_estructura_datos_s2](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_estructura_datos_s2.ipynb)
 
+#### Notebook para descargar archivos de la red:
 
+[]()
 
 <hr />
 
