@@ -6,8 +6,8 @@
 #### [Para descargar da clic aquí](https://www.python.org/ftp/python/3.6.7/python-3.6.7-amd64.exe))
 !!! Es importantes descargar e instalar esta versión !!!
 
-#### Link de descarga del folder curso_bio_uam:
-https://drive.google.com/drive/folders/1azmsh3IvICULqIJZvZutQWRAkopzj1CV?usp=sharing
+#### Link de descarga del folder [curso_bio_uam](https://drive.google.com/drive/folders/1azmsh3IvICULqIJZvZutQWRAkopzj1CV?usp=sharing)
+
 
 <hr />
 
