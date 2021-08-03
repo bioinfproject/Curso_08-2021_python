@@ -15,9 +15,12 @@
 
 #### Descargar los siguientes documentos ejecutables:
 
-!!! Para descargarlos apropieadmente>
+!!! Para descargarlos apropieadmente:
 i) clic derecho
-ii) Save Page As...
+ii) `Save Page As...`
+iii) Buscar el folder `jupyter` que está en `curso_bio_uam`
+iv) en `Save as type:` seleccionar `All Files`
+v) agregar la extención `.ipynb` al nombre del archivo
 
 [bit_markdown_s2](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_markdown_s2.ipynb)
 
