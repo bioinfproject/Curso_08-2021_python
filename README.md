@@ -15,6 +15,10 @@
 
 #### Descargar los siguientes documentos ejecutables:
 
+!!! Para descargarlos apropieadmente>
+i) clic derecho
+ii) Save Page As...
+
 [bit_markdown_s2](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_markdown_s2.ipynb)
 
 [bit_expresiones_regulares_s2](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_expresiones_regulares_s2.ipynb)
