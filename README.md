@@ -39,6 +39,8 @@
 
 # Sesión 3.
 
+#### Descargar los siguientes documentos ejecutables:
+
 [descarga_instalacion](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_dataframe_programacion_s3.ipynb)
 
 
