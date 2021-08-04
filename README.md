@@ -52,3 +52,10 @@
 # Sesión 5.
 
 
+<hr />
+<hr />
+<hr />
+
+## Las sesiones grabadas las pueden descargar a partir del siguiente folder en Drive:
+https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sharing
+
