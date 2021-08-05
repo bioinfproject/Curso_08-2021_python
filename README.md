@@ -83,10 +83,9 @@ https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sha
 ##### cambio para que el tabulador complemente la informacion el el codigo  
 `python -mpip install --force-reinstall --no-color jedi==0.17.0`  
 
+<hr />
 
-# dentro de clustalo  
 `import ssl`  
-
 `ssl._create_default_https_context = ssl._create_unverified_context`  
 
 
