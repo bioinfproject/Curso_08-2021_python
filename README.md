@@ -43,6 +43,7 @@
 
 [bit_dataframe_programacion_s3](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_dataframe_programacion_s3.ipynb)
 
+[bit_expresiones_regulares_modificada_s2](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_expresiones_regulares_modificada_s2.ipynb)
 
 <hr />
 
