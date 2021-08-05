@@ -54,8 +54,7 @@
 # Sesión 5.
 
 
-<hr />
-<hr />
+
 <hr />
 
 <hr style="height:5px;border-width:0;color:blue;background-color:blue">
