@@ -83,7 +83,7 @@ https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sha
 `python -mpip install requests`  
 `python -mpip install xmltramp2`  
 
-##### cambio para que el tabulador complemente la informacion el el codigo  
+##### cambio para que el tabulador complemente la informacion en el codigo  
 `python -mpip install --force-reinstall --no-color jedi==0.17.0`  
 
 <hr />
