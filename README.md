@@ -67,4 +67,28 @@ https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sha
 `python -mpip install bioservices`  
 `python -mpip install openpyxl`  
 `python -mpip install xlsxwriter`  
+`python -mpip install matplotlib` 
+
+
+<hr />
+
+
+
+
+`python -mpip install biopython`  
 `python -mpip install matplotlib`  
+`python -mpip install requests`  
+`python -mpip install xmltramp2`  
+
+##### cambio para que el tabulador complemente la informacion el el codigo  
+`python -mpip install --force-reinstall --no-color jedi==0.17.0`  
+
+
+# dentro de clustalo  
+`import ssl`  
+
+`ssl._create_default_https_context = ssl._create_unverified_context`  
+
+
+
+
