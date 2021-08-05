@@ -68,6 +68,9 @@
 https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sharing
 
 ### Módulos
+
+##### !!! Para Linux y para Mac se usa `python3`  
+
 `python -mpip install biopython`  
 `python -mpip install bioservices`  
 `python -mpip install openpyxl`  
