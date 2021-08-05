@@ -72,11 +72,6 @@ https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sha
 
 <hr />
 
-
-
-
-`python -mpip install biopython`  
-`python -mpip install matplotlib`  
 `python -mpip install requests`  
 `python -mpip install xmltramp2`  
 
