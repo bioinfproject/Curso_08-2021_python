@@ -58,6 +58,8 @@
 <hr />
 <hr />
 
+<hr style="height:5px;border-width:0;color:blue;background-color:blue">
+
 ### Las sesiones grabadas del curso las pueden descargar a partir del siguiente enlace:
 https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sharing
 
