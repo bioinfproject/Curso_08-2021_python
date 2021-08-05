@@ -49,7 +49,9 @@
 
 # Sesión 4.
 
-[bit_biopython_s4]()
+#### Descargar los siguientes documentos ejecutables:
+
+[bit_biopython_s4](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_biopython_s4.ipynb)
 
 
 <hr />
