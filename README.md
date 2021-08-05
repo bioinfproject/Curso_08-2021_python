@@ -61,8 +61,8 @@
 https://drive.google.com/drive/folders/1Fe4YSmM61u8Be4USQDjHEKMVpv3NLkmQ?usp=sharing
 
 ### Módulos
-`python -mpip install biopython`
-`python -mpip install bioservices`
-`python -mpip install openpyxl`
-`python -mpip install xlsxwriter`
-`python -mpip install matplotlib`
+`python -mpip install biopython`  
+`python -mpip install bioservices`  
+`python -mpip install openpyxl`  
+`python -mpip install xlsxwriter`  
+`python -mpip install matplotlib`  
