@@ -64,6 +64,8 @@
 
 [bit_bioservices_s5](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/bit_bioservices_s5.ipynb)
 
+[bit_biopython_s4_modificada_2](https://github.com/eduardo1011/curso_08_2021/blob/main/bit_biopython_s4_modificada_2.ipynb)
+
 <hr />
 
 <hr style="height:5px;border-width:0;color:blue;background-color:blue">
